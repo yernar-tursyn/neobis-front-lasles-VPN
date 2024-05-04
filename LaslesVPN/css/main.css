@@ -1,0 +1,19 @@
+a {
+    text-decoration: none;
+    color: #0B132A;
+}
+
+li {
+    list-style-type: none;
+}
+
+.button_link {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    color: rgb(245, 56, 85);
+    padding: 13px 45px;
+    border: 1px solid red;
+    border-radius: 50px;
+    height: fit-content;
+    width: fit-content;
+}
