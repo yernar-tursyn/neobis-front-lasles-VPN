@@ -67,8 +67,9 @@
     line-height: 30px;
 }
 
-.advertising_content_start button {
+.btn {
     margin-top: 50px;
+    height: fit-content;
     padding: 18px 76px;
     border: none;
     border-radius: 10px;
@@ -293,13 +294,13 @@
     justify-content: space-between;
 }
 
-/* Second section */
+/* Sixth section */
 
 .customers__users {
     margin-top: 60px;
     display: flex;
     gap: 50px;
-    width: 1186px;
+    width: 1172px;
 }
 
 .customers__user {
@@ -354,4 +355,35 @@
 .customers__btn_icons-arrows {
     display: flex;
     gap: 20px;
+}
+
+/* Seventh section */
+
+.subscribe {
+    padding: 59px 70px;
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0 60px 130px rgb(223 223 223);
+}
+
+.subscribe__title {
+    margin-right: 350px;
+}
+
+.btn-subscribe {
+    width: 40%;
+    margin-top: 0;
+    height: fit-content;
+    padding: 18px 76px;
+    border: none;
+    border-radius: 10px;
+    background: rgb(245, 56, 56);
+    color: rgb(255, 255, 255);
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 700;
+    box-shadow: 0 10px 10px rgba(245, 56, 56)
 }
