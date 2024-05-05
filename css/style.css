@@ -270,9 +270,9 @@
 
 /* Fifth section */
 
-/* .map {
-
-} */
+.map {
+    margin-bottom: 125px;
+}
 
 .map__title {
     text-align: center;
@@ -293,3 +293,5 @@
     align-items: center;
     justify-content: space-between;
 }
+
+/* Second section */
